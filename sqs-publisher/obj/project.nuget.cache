@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5N9dfS0XtD/1jJYnj1XVdlConXaW5f0uunphBjb0vJZ7O6T8aSdu0f3x8Db2AnmC60sDQNfJVt/WV0vnO9HGWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aparna\\repos\\aws-course\\sqs-publisher\\sqs-publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aparna\\.nuget\\packages\\awssdk.core\\3.7.104.6\\awssdk.core.3.7.104.6.nupkg.sha512",
+    "C:\\Users\\Aparna\\.nuget\\packages\\awssdk.sqs\\3.7.100.71\\awssdk.sqs.3.7.100.71.nupkg.sha512"
+  ],
+  "logs": []
+}
